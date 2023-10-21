@@ -59,3 +59,12 @@
   - 最近はRubyの型システムを提供する言語であるRBSに興味があります。RubyKaigi 2023 に参加した時に初めて知り、Rubyで型定義を行える世界線にワクワクしました。本当に少しずつですが、gem_rbs_collection というOSSにコントリビュートをしています。
   - https://github.com/ruby/gem_rbs_collection/pull/385
   - https://github.com/ruby/gem_rbs_collection/pull/342
+
+### 各種リンク
+
+- テックブログ
+  - https://zenn.dev/daichi1998928
+- YouTrust
+  - https://youtrust.jp/users/a9f248b4e06aa6fdacb12d88c29882b2
+- LinkdIn
+  - https://www.linkedin.com/in/daichi-sekiguchi-a4400723a/
