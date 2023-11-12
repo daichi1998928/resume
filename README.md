@@ -72,7 +72,7 @@
 
 - テックブログ
   - https://zenn.dev/daichi1998928
-- YouTrust
+- YOUTRUST
   - https://youtrust.jp/users/a9f248b4e06aa6fdacb12d88c29882b2
 - LinkdIn
   - https://www.linkedin.com/in/daichi-sekiguchi-a4400723a/
